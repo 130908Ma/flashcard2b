@@ -1,7 +1,3 @@
-
-Aviso: "function criaCartao(categoria,…"
-MARCO AUÉLIO COSTA LIMA
-Criado em: 09:2109:21
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
