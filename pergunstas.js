@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Lingua portuguesa',
+    'Por que vanderleia não tem acento?',
+    'Ela ficou sem acento por causa da reforma ortografica em 2009.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quando foi criado o motor ap?',
+    'em 1985.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'história',
+    'quem foi Lampeão?',
+    'Lampião, cujo nome verdadeiro era Virgulino Ferreira da Silva, foi um dos cangaceiros mais famosos do Brasil, atuando no sertão nordestino entre as décadas de 1920 e 1930'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'conhecimentos gerais',
+    'Como fazer uma bomda de cau?',
+    'pegue uma garrafa, pegue cau, coloque dentro da garrafa, em seguida coloque água dentro da garrafa, chacoale, e jogue ela (dica: corra.) '
 )
